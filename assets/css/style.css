@@ -5,7 +5,7 @@
 }
 
 body {
-    font-family: 'Merienda';font-size: 22px;
+    font-family: 'Montserrat' ;font-size: 22px;
     background-color: white;
 }
 
@@ -20,7 +20,7 @@ header {
     padding-top: 10px;
     padding-left: 10px;
     padding-right: 10px;
-    font-family: 'Merienda';font-size: 22px;
+    font-family: 'cursive';font-size: 22px;
   }
 
 .btnHeader {
@@ -30,7 +30,7 @@ header {
     border: 0;
     outline: 0; /* Remove border around button */
     color: rgb(243, 116, 42);
-    font-family: 'Merienda';font-size: 20px;
+    font-family: 'cursive';font-size: 20px;
 }
 
 .btnHeader:hover {
@@ -47,7 +47,7 @@ header {
     outline: 0; /* Remove border around button */
     background-color: rgb(128, 0, 0);
     color: white;
-    font-family: 'Merienda';font-size: 10px;
+    font-family: 'Montserrat', sans-serif; font-size: 10px;
 }
 
 
@@ -60,7 +60,7 @@ header {
     flex-direction: column;
     justify-content: center;
     margin-top: 50px;
-    font-family: 'Merienda';font-size: 22px;
+    font-family: 'Montserrat', sans-serif ;font-size: 22px;
 }
 
 
@@ -72,7 +72,7 @@ header {
     grid-template-columns: repeat(2, 1fr) 2fr 1fr;  /* Create a 4X4 grid of same size*/
     grid-template-rows: repeat(10, 1fr); /* 4 rows of equal size */
     gap: 10px 10px; /* Gap on x and y grid */
-    font-family: 'Merienda';font-size: 22px;
+    font-family: 'Montserrat', sans-serif ;font-size: 22px;
 }
 
 
@@ -118,9 +118,9 @@ header {
     border-radius: 10%;
     border: 0;
     outline: 0; /* Remove border around button */
-    background-color: rgb(87, 4, 240);
+    background-color: rgb(240, 4, 4);
     color: white;
-    font-family: 'Merienda';font-size: 15px;
+    font-family: 'Montserrat', sans-serif ;font-size: 15px;
 }
 
 #start-quiz {
@@ -130,10 +130,10 @@ header {
     border-radius: 10%;
     border: 0;
     outline: 0; /* Remove border around button */
-    background-color: rgb(43, 0, 128);
+    background-color: rgb(85, 3, 250);
     place-self: center;
-    color: white;
-    font-family: 'Merienda';font-size: 15px;
+    color: rgb(249, 130, 2);
+    font-family: 'Montserrat', sans-serif; font-size: 15px;
 }
 
 #answer1 {
@@ -143,9 +143,9 @@ header {
     border-radius: 10%;
     border: 0;
     outline: 0; /* Remove border around button */
-    background-color: purple;
+    background-color: rgb(90, 5, 249);
     color: white;
-    font-family: 'Merienda';font-size: 15px;
+    font-family: 'Montserrat', sans-serif; font-size: 15px;
     margin-left: 25px;
 }
 
@@ -156,9 +156,9 @@ header {
     border-radius: 10%;
     border: 0;
     outline: 0; /* Remove border around button */
-    background-color: purple;
+    background-color: rgb(68, 3, 245);
     color: white;
-    font-family: 'Merienda';font-size: 15px;
+    font-family: 'Montserrat', sans-serif; font-size: 15px;
     margin-left: 25px;
     margin-left: 25px;
 
@@ -171,9 +171,9 @@ header {
     border-radius: 10%;
     border: 0;
     outline: 0; /* Remove border around button */
-    background-color: purple;
+    background-color: rgb(93, 6, 255);
     color: white;
-    font-family: 'Merienda';font-size: 15px;
+    font-family: 'Montserrat', sans-serif; font-size: 15px;
     margin-left: 25px;
 }
 
@@ -184,9 +184,9 @@ header {
     border-radius: 10%;
     border: 0;
     outline: 0; /* Remove border around button */
-    background-color: purple;
+    background-color: rgb(59, 0, 161);
     color: white;
-    font-family: 'Merienda';font-size: 15px;
+    font-family: 'Montserrat', sans-serif; font-size: 15px;
     margin-left: 25px;
 }
 
@@ -197,31 +197,31 @@ header {
 
 #answer1:hover{
     
-    background-color: pink;
+    background-color: yellow;
      
 }
 
 #answer2:hover{
     
-    background-color: pink;
+    background-color: yellow;
   
 }
 
 #answer3:hover{
-    
-    background-color: pink;
+    background-color: yellow     
+    ;
   
 }
 
 #answer4:hover{
     
-    background-color: pink;
+    background-color: yellow;
   
 }
 
 #submitScore:hover{
     
-    background-color: pink;
+    background-color: yellow;
   
 }
 
@@ -233,7 +233,7 @@ header {
     grid-template-columns: 4fr;  /* Create a 4X4 grid of same size*/
     grid-template-rows: repeat(2, 1fr); /* 4 rows of equal size */
     gap: 10px 10px; /* Gap on x and y grid */
-    font-family: 'Merienda';font-size: 22px;
+    font-family: 'Montserrat', sans-serif;font-size: 22px;
 
 }
 
