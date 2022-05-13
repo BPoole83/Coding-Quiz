@@ -1,2 +1,9 @@
 # Coding-Quiz
-![image](https://user-images.githubusercontent.com/102924794/168336244-c84eea2f-d358-48c6-8675-5570e5d09ff5.png)
+Objectives
+ - create a online code quiz
+ - record high scroces
+ - timed quiz
+ 
+ 
+![image](https://user-images.githubusercontent.com/102924794/168336979-00f4f192-ea9d-4837-8808-966bd3e75fbf.png)
+
